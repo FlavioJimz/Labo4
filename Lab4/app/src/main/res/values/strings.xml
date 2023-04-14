@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="rellena_la_siguiente_informaci_n">Rellena la siguiente informaciòn</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="numero_de_telefono">Numero de telefono</string>
+</resources>
